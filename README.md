@@ -44,8 +44,7 @@ I may still contribute unpaid fixes when the project is high-quality, high-impac
 
 - Portfolio: **https://afumoons.github.io/afu-portfolio/**
 - LinkedIn: **https://www.linkedin.com/in/afu-sidhi-pamekas-62b725194/**
-- Email: **afusidhipamekas@gmail.com**
-- Alternate email: **afumoons@gmail.com**
+- Email: **afumoons@gmail.com**
 - PayPal: **https://paypal.me/afusidhipamekas**
 - USDT: available on request
 
